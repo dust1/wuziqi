@@ -53,7 +53,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scropts\buttonClick.cs" />
      <Compile Include="Assets\Scropts\chess.cs" />
+     <Compile Include="Assets\Scropts\GameController.cs" />
+     <Compile Include="Assets\Scropts\indexScript.cs" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>/Users/kous/Document/wuziqi/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
