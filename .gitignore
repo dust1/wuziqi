@@ -1,0 +1,9 @@
+/Logs/
+/ProjectSettings/
+/Temp/
+/UserSettings/
+*.csproj
+*.sln
+/Library/
+*.meta
+*unity
